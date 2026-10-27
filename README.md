@@ -44,7 +44,7 @@ sudo apt-get install -y aria2 jq curl wget
 ## Installation
 
 ```bash
-git clone <this-repo> hfd-cli
+git clone git@github.com:silentred/hfd-cli.git hfd-cli
 cd hfd-cli
 chmod +x hfd.sh
 
