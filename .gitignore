@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Download artifacts created by hfd.sh
+.hfd/
+*.aria2
+
+# Editor / OS noise
+*~
+*.swp
+.idea/
+.vscode/
